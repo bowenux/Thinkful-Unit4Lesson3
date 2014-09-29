@@ -61,7 +61,7 @@
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ISp-nh-BaO">
-                                            <rect key="frame" x="0.0" y="-1" width="320" height="43.5"/>
+                                            <rect key="frame" x="0.0" y="-1" width="320" height="44"/>
                                             <color key="backgroundColor" red="0.99523437023162842" green="0.78886270523071289" blue="0.79382783174514771" alpha="1" colorSpace="calibratedRGB"/>
                                         </imageView>
                                     </subviews>
